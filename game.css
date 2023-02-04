@@ -1,0 +1,18 @@
+.bigbox{
+
+  height: 96vh;
+  width: 96vw;
+
+  border: 1px black solid;
+}
+
+
+.smallbox{
+
+  height: 40px;
+  width: 40px;
+
+  border: 1px black solid;
+
+  background-color: greenyellow;
+}
